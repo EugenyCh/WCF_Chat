@@ -1,0 +1,7 @@
+D:\Projects\WCF Chat\WCF_Chat\WCF_Chat\bin\Debug\WCF_Chat.dll.config
+D:\Projects\WCF Chat\WCF_Chat\WCF_Chat\bin\Debug\WCF_Chat.dll
+D:\Projects\WCF Chat\WCF_Chat\WCF_Chat\bin\Debug\WCF_Chat.pdb
+D:\Projects\WCF Chat\WCF_Chat\WCF_Chat\obj\Debug\WCF_Chat.csprojAssemblyReference.cache
+D:\Projects\WCF Chat\WCF_Chat\WCF_Chat\obj\Debug\WCF_Chat.csproj.CoreCompileInputs.cache
+D:\Projects\WCF Chat\WCF_Chat\WCF_Chat\obj\Debug\WCF_Chat.dll
+D:\Projects\WCF Chat\WCF_Chat\WCF_Chat\obj\Debug\WCF_Chat.pdb
